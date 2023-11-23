@@ -1,0 +1,33 @@
+﻿item_id;Name;Price;Rarity
+01-Pon;Potion of Healing;50 gp;Common
+02-Pon;Potion of Greater Healing;150 gp;Uncommon
+03-Pre;Potion of Superior Healing;450 gp ;Rare
+04-Pre;Potion of Supreme Healing;1,350 gp;Very Rare
+05-Ere;Elixir of Health;120 gp;Rare
+06-Pon;Potion of Poison;100 gp;Uncommon
+07-Pon;Philter of Love;90 gp;Uncommon
+08-Pon;Potion of Fire Breath;150 gp;Uncommon
+09-Pon;Potion of Climbing;180 gp;Common
+10-Pre;Potion of Heroism;180 gp;Rare
+11-Pre;Potion of Invisibility;180 gp;Very Rare
+12-Pre;Potion of Mind Reading;180 gp;Rare
+13-Pon;Potion of Water Breathing;180 gp;Uncommon
+14-Pon;Potion of Animal Friendship;200 gp;Uncommon
+15-Pre;Potion of Diminution;270 gp;Rare
+16-Pon;Potion of Growth;270 gp;Uncommon
+17-Pre;Potion of Gaseous Form;300 gp;Rare
+18-Pon;Potion of Resistance;300 gp;Uncommon
+19-Pre;Potion of Speed;400 gp;Very Rare
+20-Pre;Potion of Flying;500 gp;Very Rare
+21-Pre;Potion of Clairvoyance;960 gp;Rare
+22-Pre;Potion of Vitality;960 gp;Very Rare
+23-Pre;Potion of Invulnerability;3,840 gp;Very Rare
+24-Ore;Oil of Etherealness;1,920 gp;Rare
+25-Ore;Oil of Sharpness;3,200 gp;Very Rare
+26-Oon;Oil of Slipperiness;480 gp;Uncommon
+27-Pre;Potion of Longevity;9,000 gp;Very Rare
+28-Pon;Potion of Hill Giant Strength;400 gp;Uncommon
+29-Pre;Potion of Frost Giant Strength;750 gp;Rare
+30-Pre;Potion of Fire Giant Strength;1,300 gp;Rare
+31-Pre;Potion of Cloud Giant Strength;1,990 gp;Very Rare
+32-Pry;Potion of Storm Giant Strength;3,000 gp;Legendary

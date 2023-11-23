@@ -1,0 +1,110 @@
+﻿item_id;Name;Price;Weight;type
+01-Ars;Abacus;2 gp;2 lb.;Others
+02-Ars;Acid (vial);25 gp;1 lb.;Others
+03-Ars;Alchemist's Fire (flask);50 gp;1 lb.;Others
+04-Aon;Arrows (20);1 gp;1 lb.;Ammunition
+05-Bon;Blowgun Needle (50);1 gp;1 lb.;Ammunition
+06-Con;Crossbow Bolts (20);1 gp;1.5 lb.;Ammunition
+07-Son;Sling Bullets (20);4 cp;1.5 lb.;Ammunition
+08-Cus;Crystal;10 gp;1 lb.;Arcane Focus
+09-Ous;Orb;20 gp;3 lb.;Arcane Focus
+10-Rus;Rod;10 gp;2 lb.;Arcane Focus
+11-Sus;Staff;5 gp;4 lb.;Arcane Focus
+12-Wus;Wand;10 gp;1 lb.;Arcane Focus
+13-Brs;Backpack;2 gp;5 lb.;Others
+14-Brs;Ball Bearings (bag of 1000);1 gp;2 lb.;Others
+15-Brs;Barrel;2 gp;70 lb.;Others
+16-Brs;Basket;4 sp;2 lb.;Others
+17-Brs;Bedroll;1 gp;7 lb.;Others
+18-Brs;Bell;1 gp;-;Others
+19-Brs;Blanket;5 sp;3 lb.;Others
+20-Brs;Block and Tackle;1 gp;5 lb.;Others
+21-Brs;Book;25 gp;5 lb.;Others
+22-Brs;Bottle, Glass;2 gp;2 lb.;Others
+23-Brs;Bucket;5 cp;2 lb.;Others
+24-Crs;Caltrops (bag of 20);1 gp;2 lb.;Others
+25-Crs;Candle;1 cp;-;Others
+26-Crs;Case, Crossbow Bolt;1 gp;1 lb.;Others
+27-Crs;Case, Map and Scroll;1 gp;1 lb.;Others
+28-Crs;Chain (10ft);5 gp;10 lb.;Others
+29-Crs;Chalk (1 piece);1 cp;-;Others
+30-Crs;Chest;5 gp;25 lb.;Others
+31-Crs;Climber's kit;25 gp;12 lb.;Others
+32-Crs;Clothes, Common;5 sp;3 lb.;Others
+33-Crs;Clothes, Costume;5 gp;4 lb.;Others
+34-Crs;Clothes, Fine;15 gp;6 lb.;Others
+35-Crs;Clothes, Traveler's;2 gp;4 lb.;Others
+36-Crs;Component Pouch;25 gp;2 lb.;Others
+37-Crs;Crowbar;2 gp;5 lb.;Others
+38-Dus;Druidic Focus;;;Druidic Focus
+39-Sus;Sprig of Mistletoe;1 gp;-;Druidic Focus
+40-Tus;Totem;1 gp;-;Druidic Focus
+41-Wus;Wooden Staff;5 gp;4 lb.;Druidic Focus
+42-Yus;Yew Wand;10 gp;1 lb.;Druidic Focus
+43-Frs;Flask or Tankard;1 gp;4 lb.;Others
+44-Frs;Flask or Tankard;2 cp;1 lb.;Others
+45-Grs;Grappling Hook;2 gp;4 lb.;Others
+46-Hrs;Hammer;1 gp;3 lb.;Others
+47-Hrs;Hammer, Sledge;2 gp;10 lb.;Others
+48-Hrs;Healer's kit;5 gp;3 lb.;Others
+49-Aol;Amulet ;5 gp; 1 Ib;Holy Symbol
+50-Eol;Emblem ; 5 gp;-;Holy Symbol
+51-Rol;Reliquary ;5 gp;2 lb.;Holy Symbol
+52-Hrs;Holy water (flask);25 gp;1 lb.;Others
+53-Hrs;Hourglass ;25 gp;1 lb.;Others
+54-Hrs;Hunting Trap;5 gp;25 lb.;Others
+55-Irs;Ink (1 ounce bottle);10 gp;-;Others
+56-Irs;Ink pen;2 cp;;Others
+57-Jrs;Jug or pitcher;2 cp;4 lb.;Others
+58-Lrs;Ladder (10-foot);1 sp;25 lb.;Others
+59-Lrs;Lamp;5 sp;1 lb.;Others
+60-Lrs;Lantern, Bullseye;10 gp;2 lb.;Others
+61-Lrs;Lantern, hooded;5 gp;2 lb.;Others
+62-Lrs;Lock;10 gp;1 lb.;Others
+63-Mrs;Magnifying glass;100 gp;-;Others
+64-Mrs;Manacles;2 gp;6 lb.;Others
+65-Mrs;Mess ki;2 sp;1 lb.;Others
+66-Mrs;Mirror, steel;5 gp;.25 lb.;Others
+67-Ors;Oil (flask);1 sp;1 lb.;Others
+68-Prs;Paper (one sheet);2 sp;-;Others
+69-Prs;Parchment (one sheet);1 sp;-;Others
+70-Prs;Perfume (vial);5 gp;-;Others
+71-Prs;Pick, miner's;2 gp;10 lb.;Others
+72-Prs;Piton;5 cp;.25 lb.;Others
+73-Prs;Poison, basic (vial);100 gp;-;Others
+74-Prs;Pole (10-foot);5 cp;7 lb.;Others
+75-Prs;Pot, iron;2 gp;10 lb.;Others
+76-Prs;Potion of healing;50 gp;.5 lb.;Others
+77-Prs;Pouch;5 sp;1 lb.;Others
+78-Qrs;Quiver;1 gp;1 lb.;Others
+79-Rrs;Ram, portable;4 gp;35 lb.;Others
+80-Rrs;Rations (l day);5 sp;2 lb.;Others
+81-Rrs;Robes;1 gp;4 lb.;Others
+82-Rrs;Rope, hempen (50 feet);1 gp;10 lb.;Others
+83-Rrs;Rope, silk (50 feet);10 gp;5 lb.;Others
+84-Srs;Sack;1 cp;.5 lb.;Others
+85-Srs;Scale, merchant's;5 gp;3 lb.;Others
+86-Srs;Sealing wax;5 sp;-;Others
+87-Srs;Shovel;2 gp;5 lb.;Others
+88-Srs;Signal whistle;5 cp;-;Others
+89-Srs;Signe! ring;5 gp;-;Others
+90-Srs;Soap;2 cp;-;Others
+91-Srs;Spellbook;50 gp;3 lb.;Others
+92-Srs;Spikes, iron (10);1 gp;5 lb.;Others
+93-Srs;Spyglass;1000 gp;1 lb.;Others
+94-Trs;Tent, two-person;2 gp;20 lb.;Others
+95-Trs;Tinderbox;5 sp;1 lb.;Others
+96-Trs;Torch;1 cp;1 lb.;Others
+97-Vrs;Vial;1 gp;-;Others
+98-Wrs;Waterskin;2 sp;(Full) 5 lb.;Others
+99-Wrs;Whetstone;1 cp;1 lb.;Others
+100-Bnt;Bagpipe;30 gp;6 lb.;Musical instrument
+101-Dnt;Drum;6 gp;3 lb.;Musical instrument
+102-Dnt;Dulcimer;25 gp;10 lb.;Musical instrument
+103-Fnt;Flute;2 gp;1 lb.;Musical instrument
+104-Lnt;Lute;35 gp;2 lb.;Musical instrument
+105-Lnt;Lyre;30 gp;2 lb.;Musical instrument
+106-Hnt;Horn;3 gp;2 lb.;Musical instrument
+107-Pnt;Pan Flute;12 gp;2 lb.;Musical instrument
+108-Snt;Shawm;2 gp;1 lb.;Musical instrument
+109-Vnt;Viol;30 gp;1 lb.;Musical instrument

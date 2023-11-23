@@ -1,0 +1,17 @@
+﻿item_id;Name;Price;Type;DC
+01-Aed;Assassin's blood;150 gp;Ingested;10
+02-Ted;Truth serum;150 gp;Ingested;11
+03-Cct;Carrion crawler mucus;200 gp;Contact;13
+04-Dry;Drow poison;200 gp;Injury;13
+05-Sry;Serpent venom;200 gp;Injury;11
+06-Med;Malice;250 gp;Inhaled;15
+07-Ped;Pale tincture;250 gp;Ingested;16
+08-Eed;Essence of ether;300 gp;Inhaled;15
+09-Oct;Oil of taggit;400 gp;Contact;13
+10-Bed;Burnt othur fumes;500 gp;Inhaled;13
+11-Ted;Torpor;600 gp;Ingested;15
+12-Wry;Wyvern poison;1,200 gp;Injury;15
+13-Med;Midnight tears;1,500 gp;Ingested;17
+14-Pry;Purple worm poison;2,000 gp;Injury;19
+15-Aed;Antitoxin;50 gp;Ingested;
+16-Bct;Basic Poison;100 gp;Contact;10

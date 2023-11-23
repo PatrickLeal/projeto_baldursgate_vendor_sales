@@ -1,0 +1,38 @@
+﻿item_id;Name;Price;Damage;Weight;Properties;type
+01-Cns;Club;1 sp;1d4 Bludgeon;2 lb.;Light;Simple Melee Weapons
+02-Dns;Dagger;2 gp;1d4 Piercing;1 lb.;Finesse, Light, Thrown (20/60);Simple Melee Weapons
+03-Gns;Greatclub;2 sp;1d8 Bludgeon;10 lb.;Two-handed;Simple Melee Weapons
+04-Hns;Handaxe;5 gp;1d6 Slashing;2 lb.;Light, Thrown (20/60);Simple Melee Weapons
+05-Jns;Javelin;5 sp;1d6 Piercing;2 lb.;Thrown (30/120);Simple Melee Weapons
+06-Lns;Light hammer;2 gp;1d4 Bludgeon;2 lb.;Light, Thrown (20/60);Simple Melee Weapons
+07-Mns;Mace;5 gp;1d6 Bludgeon;5 lb.;-;Simple Melee Weapons
+08-Qns;Quarterstaff;2 sp;1d6 Bludgeon;5 lb.;Versatile (1d8);Simple Melee Weapons
+09-Sns;Sickle;1 gp;1d4 Slashing;2 lb.;Light;Simple Melee Weapons
+10-Sns;Spear;1 gp;1d6 Piercing;3 lb.;Thrown (20/60), Versatile (1d8);Simple Melee Weapons
+11-Cns;Crossbow, light;25 gp;1d6 Piercing;5 lb.;Ammunition (80/320), Loading, Two-handed;Simple Ranged Weapons
+12-Dns;Dart;5 cp;1d4 Piercing;.25 lb.;Finesse, Thrown (20/60);Simple Ranged Weapons
+13-Sns;Shortbow;25 gp;1d6 Piercing;2 lb.;Ammunition (80/320), Two-handed;Simple Ranged Weapons
+14-Sns;Sling;1 sp;1d4 Bludgeon;-;Ammunition (30/120);Simple Ranged Weapons
+15-Bns;Battleaxe;10 gp;1d8 Slashing;4 lb.;Versatile (1d10);Martial Melee Weapons
+16-Fns;Flail;10 gp;1d8 Bludgeon;2 lb.;-;Martial Melee Weapons
+17-Gns;Glaive;20 gp;1d10 Slashing;6 lb.;Heavy, Reach, Two-handed;Martial Melee Weapons
+18-Gns;Greataxe;30 gp;1d12 Slashing;7 lb.;Heavy, Two-handed;Martial Melee Weapons
+19-Gns;Greatsword;50 gp;2d6 Slashing;6 lb.;Heavy, Two-handed;Martial Melee Weapons
+20-Hns;Halberd;20 gp;1d10 Slashing;6 lb.;Heavy, Reach, Two-handed;Martial Melee Weapons
+21-Lns;Lance;10 gp;1d12 Piercing;6 lb.;Reach, Special;Martial Melee Weapons
+22-Lns;Longsword;15 gp;1d8 Slashing;3 lb.;Versatile (1d10);Martial Melee Weapons
+23-Mns;Maul;10 gp;2d6 Bludgeon;10 lb.;Heavy, Two-handed;Martial Melee Weapons
+24-Mns;Morningstar;15 gp;1d8 Piercing;4 lb.;-;Martial Melee Weapons
+25-Pns;Pike;5 gp;1d10 Piercing;18 lb.;Heavy, Reach, Two-handed;Martial Melee Weapons
+26-Rns;Rapier;25 gp;1d8 Piercing;2 lb.;Finesse;Martial Melee Weapons
+27-Sns;Scimitar;25 gp;1d6 Slashing;3 lb.;Finesse, Light;Martial Melee Weapons
+28-Sns;Shortsword;10 gp;1d6 Slashing;2 lb.;Finesse, Light;Martial Melee Weapons
+29-Tns;Trident;5 gp;1d6 Piercing;5 lb.;Thrown (20/60), Versatile (1d8);Martial Melee Weapons
+30-Wns;War pick;5 gp;1d8 Piercing;2 lb.;-;Martial Melee Weapons
+31-Wns;Warhammer;15 gp;1d8 Bludgeon;2 lb.;Versatile (1d10);Martial Melee Weapons
+32-Wns;Whip;2 gp;1d4 Slashing;3 lb.;Finesse, Reach;Martial Melee Weapons
+33-Bns;Blowgun;10 gp;1 Piercing;1 lb.;Ammunition (25/100), Loading;Martial Ranged Weapons
+34-Cns;Crossbow, hand;75 gp;1d6 Piercing;3 lb.;Ammunition (30/120), Loading, Light;Martial Ranged Weapons
+35-Cns;Crossbow, heavy;50 gp;1d10 Piercing;18 lb.;Ammunition (100/400), Loading, Two-handed, Heavy;Martial Ranged Weapons
+36-Lns;Longbow;50 gp;1d8 Piercing;2 lb.;Ammunition (150/600), Heavy, Two-handed;Martial Ranged Weapons
+37-Nns;Net;1 gp;-;3 lb.;Special, Thrown (5/15);Martial Ranged Weapons

@@ -1,0 +1,301 @@
+﻿item_id;Name;Price;Rarity;Category
+001-ACo;Ammunition +1 (Per);15 gp;Uncommon;Consumable Items
+002-ACo;Ammunition +2 (Per);50 gp;Rare;Consumable Items
+003-ACo;Ammunition +3 (Per);250 gp;Very Rare;Consumable Items
+004-ACo;Arrow of Slaying;400 gp;Very Rare;Consumable Items
+005-BCo;Bead of Force;1,000 gp;Rare;Consumable Items
+006-CCo;Chime of Opening;400 gp;Rare;Consumable Items
+007-DCo;Deck of Illusions;900 gp;Uncommon;Consumable Items
+008-DCo;Dust of Disappearance;300 gp;Uncommon;Consumable Items
+009-DCo;Dust of Dryness(Per Pinch);100 gp;Uncommon;Consumable Items
+010-DCo;Dust of Sneezing and Choking;400 gp;Uncommon;Consumable Items
+011-ECo;Elemental Gem;600 gp;Uncommon;Consumable Items
+012-GCo;Gem of Brightness;350 gp;Uncommon;Consumable Items
+013-HCo;Horn of Blasting;450 gp;Rare;Consumable Items
+014-ICo;Ioun Stone Absorption;2,400 gp;Very Rare;Consumable Items
+015-ICo;Ioun Stone Greater Absorption;30,000 gp;Legendary;Consumable Items
+016-KCo;Keoghtom's Ointment (1 Dose);150 gp;Uncommon;Consumable Items
+017-MCo;Manual of Bodily Health;55,000 gp;Very Rare;Consumable Items
+018-MCo;Manual of Gainful Exercise;55,000 gp;Very Rare;Consumable Items
+019-MCo;Manual of Glamour and Prestige;55,000 gp;Very Rare;Consumable Items
+020-MCo;Manual of Prudent Foresight;55,000 gp;Very Rare;Consumable Items
+021-MCo;Manual of Quickness of Action;55,000 gp;Very Rare;Consumable Items
+022-MCo;Manual of Sharpened Mind;55,000 gp;Very Rare;Consumable Items
+023-NCo;Necklace of Fireballs (1 bead);300 gp;Rare;Consumable Items
+024-NCo;Necklace of Fireballs (2 beads);500 gp;Rare;Consumable Items
+025-NCo;Necklace of Fireballs (3 beads);1,000 gp;Rare;Consumable Items
+026-NCo;Necklace of Fireballs (4 beads);1,600 gp;Rare;Consumable Items
+027-NCo;Necklace of Fireballs (5 beads);4,000 gp;Rare;Consumable Items
+028-NCo;Necklace of Fireballs (6 beads);8,000 gp;Rare;Consumable Items
+029-NCo;Nolzur's Marvelous Pigments;200 gp;Very Rare;Consumable Items
+030-QCo;Quaal's Feather Token Anchor;50 gp;Rare;Consumable Items
+031-QCo;Quaal's Feather Token Bird;1,000 gp;Rare;Consumable Items
+032-QCo;Quaal's Feather Token Fan;120 gp;Rare;Consumable Items
+033-QCo;Quaal's Feather Token Swan Boat;300 gp;Rare;Consumable Items
+034-QCo;Quaal's Feather Token Tree;200 gp;Rare;Consumable Items
+035-QCo;Quaal's Feather Token Whip;100 gp;Rare;Consumable Items
+036-RCo;Robe of Useful Items;300 gp;Uncommon;Consumable Items
+037-RCo;Rod of Absorption;35,000 gp;Very Rare;Consumable Items
+038-SCo;Scroll of Protection;200 gp;Rare;Consumable Items
+039-SCo;Sovereign Glue;400 gp;Legendary;Consumable Items
+040-SCo;Spell Scroll Level 0;25 gp;Common;Consumable Items
+041-SCo;Spell Scroll Level 1;35 gp;Common;Consumable Items
+042-SCo;Spell Scroll Level 2;280 gp;Uncommon;Consumable Items
+043-SCo;Spell Scroll Level 3;570 gp;Uncommon;Consumable Items
+044-SCo;Spell Scroll Level 4;2,640 gp;Rare;Consumable Items
+045-SCo;Spell Scroll Level 5;5,280 gp;Rare;Consumable Items
+046-SCo;Spell Scroll Level 6;15,560 gp;Very Rare;Consumable Items
+047-SCo;Spell Scroll Level 7;26,220 gp;Very Rare;Consumable Items
+048-SCo;Spell Scroll Level 8;52,240 gp;Very Rare;Consumable Items
+049-SCo;Spell Scroll Level 9;253,360 gp;Legendary;Consumable Items
+050-TCo;Talisman of Pure Good;72,000 gp;Legendary;Consumable Items
+051-TCo;Talisman of Ultimate Evil;62,000 gp;Legendary;Consumable Items
+052-UCo;Universal Solvent;300 gp;Legendary;Consumable Items
+053-ANo;Alchemy Jug;450 gp;Uncommon;Non Combat Items
+054-ANo;Amulet of Proof Against Detection and Location;1,000 gp;Uncommon;Non Combat Items
+055-ANo;Amulet of the Planes;90,000 gp;Very Rare;Non Combat Items
+056-ANo;Apparatus of Kwalish;10,000 gp;Legendary;Non Combat Items
+057-BNo;Bag of Holding;500 gp;Uncommon;Non Combat Items
+058-BNo;Boots of Elvenkind;275 gp;Uncommon;Non Combat Items
+059-BNo;Boots of Levitation;2,000 gp;Rare;Non Combat Items
+060-BNo;Boots of Striding and Springing;400 gp;Uncommon;Non Combat Items
+061-BNo;Boots of the Winterlands;350 gp;Uncommon;Non Combat Items
+062-BNo;Broom of Flying;2,000 gp;Uncommon;Non Combat Items
+063-CNo;Cap of Water Breathing;400 gp;Uncommon;Non Combat Items
+064-CNo;Cape of the Mountebank;1,250 gp;Rare;Non Combat Items
+065-CNo;Carpet of Flying 3x5;8,000 gp;Very Rare;Non Combat Items
+066-CNo;Carpet of Flying 4x6;16,000 gp;Very Rare;Non Combat Items
+067-CNo;Carpet of Flying 5x7;24,000 gp;Very Rare;Non Combat Items
+068-CNo;Carpet of Flying 6x9;32,000 gp;Very Rare;Non Combat Items
+069-CNo;Cloak of Arachnida;5,000 gp;Very Rare;Non Combat Items
+070-CNo;Cloak of Elvenkind;500 gp;Uncommon;Non Combat Items
+071-CNo;Cloak of Invisibility;50,000 gp;Legendary;Non Combat Items
+072-CNo;Cloak of the Bat;1,300 gp;Rare;Non Combat Items
+073-CNo;Cloak of the Manta Ray;800 gp;Uncommon;Non Combat Items
+074-CNo;Crystal Ball;50,000 gp;Very Rare;Non Combat Items
+075-CNo;Cube of Force;5,000 gp;Rare;Non Combat Items
+076-CNo;Cubic Gate;40,000 gp;Legendary;Non Combat Items
+077-DNo;Daern's Instant Fortress;5,000 gp;Rare;Non Combat Items
+078-DNo;Decanter of Endless Water;500 gp;Uncommon;Non Combat Items
+079-DNo;Dimensional Shackles;1,500 gp;Rare;Non Combat Items
+080-DNo;Driftglobe;300 gp;Uncommon;Non Combat Items
+081-ENo;Eversmoking Bottle;200 gp;Uncommon;Non Combat Items
+082-ENo;Eyes of Charming;900 gp;Uncommon;Non Combat Items
+083-ENo;Eyes of Minute Seeing;150 gp;Uncommon;Non Combat Items
+084-ENo;Eyes of the Eagle;250 gp;Uncommon;Non Combat Items
+085-FNo;Folding Boat;5,000 gp;Rare;Non Combat Items
+086-GNo;Gem of Seeing;800 gp;Rare;Non Combat Items
+087-GNo;Gloves of Swimming and Climbing;500 gp;Uncommon;Non Combat Items
+088-GNo;Gloves of Thievery;300 gp;Uncommon;Non Combat Items
+089-GNo;Goggles of Night;750 gp;Uncommon;Non Combat Items
+090-HNo;Hat of Disguise;1,000 gp;Uncommon;Non Combat Items
+091-HNo;Helm of Comprehend Languages;500 gp;Uncommon;Non Combat Items
+092-HNo;Helm of Telepathy;1,000 gp;Uncommon;Non Combat Items
+093-HNo;Heward's Handy Haversack;350 gp;Rare;Non Combat Items
+094-HNo;Horseshoes of Speed;500 gp;Rare;Non Combat Items
+095-HNo;Horseshoes of the Zephyr;1,500 gp;Very Rare;Non Combat Items
+096-INo;Immovable Rod;200 gp;Uncommon;Non Combat Items
+097-INo;Ioun Stone Sustenance;1,000 gp;Rare;Non Combat Items
+098-LNo;Lantern of Revealing;1,000 gp;Uncommon;Non Combat Items
+099-MNo;Medallion of Thoughts;700 gp;Uncommon;Non Combat Items
+100-MNo;Mirror of Life Trapping;18,000 gp;Very Rare;Non Combat Items
+101-NNo;Necklace of Adaption;800 gp;Uncommon;Non Combat Items
+102-PNo;Periapt of Health;1,000 gp;Uncommon;Non Combat Items
+103-PNo;Periapt of Proof Against Poison;1,500 gp;Rare;Non Combat Items
+104-PNo;Portable Hole;4,000 gp;Rare;Non Combat Items
+105-QNo;Quiver of Ehlonna;250 gp;Uncommon;Non Combat Items
+106-RNo;Ring of Air Elemental Command;35,000 gp;Legendary;Non Combat Items
+107-RNo;Ring of Animal Influence;1,350 gp;Rare;Non Combat Items
+108-RNo;Ring of Earth Elemental Command;31,000 gp;Legendary;Non Combat Items
+109-RNo;Ring of Invisibility;10,000 gp;Legendary;Non Combat Items
+110-RNo;Ring of Jumping;500 gp;Uncommon;Non Combat Items
+111-RNo;Ring of Mind Shielding;2,000 gp;Uncommon;Non Combat Items
+112-RNo;Ring of Swimming;300 gp;Uncommon;Non Combat Items
+113-RNo;Ring of Telekinesis;4,800 gp;Very Rare;Non Combat Items
+114-RNo;Ring of Three Wishes;150,000 gp;Legendary;Non Combat Items
+115-RNo;Ring of Warmth;350 gp;Uncommon;Non Combat Items
+116-RNo;Ring of Water Walking;450 gp;Uncommon;Non Combat Items
+117-RNo;Ring of X-Ray Vision;3,000 gp;Rare;Non Combat Items
+118-RNo;Rod of Ressurection;50,000 gp;Legendary;Non Combat Items
+119-RNo;Rod of Rulership;4,500 gp;Rare;Non Combat Items
+120-RNo;Rope of Climbing;350 gp;Uncommon;Non Combat Items
+121-SNo;Sending Stones;200 gp;Uncommon;Non Combat Items
+122-SNo;Slippers of Spider Climbing;500 gp;Uncommon;Non Combat Items
+123-TNo;Talisman of the Sphere;20,000 gp;Legendary;Non Combat Items
+124-TNo;Trident of Fish Command;400 gp;Uncommon;Non Combat Items
+125-WNo;Wand of Magic Detection;500 gp;Uncommon;Non Combat Items
+126-WNo;Wand of Secrets;250 gp;Uncommon;Non Combat Items
+127-WNo;Winged Boots;4,000 gp;Uncommon;Non Combat Items
+128-WNo;Wings of Flying;5,000 gp;Rare;Non Combat Items
+129-BSu;Bowl of Commanding Water Elementals;8,000 gp;Rare;Summons / Pets
+130-BSu;Brass Horn of Valhalla;8,000 gp;Rare;Summons / Pets
+131-BSu;Brazier of Commanding Fire Elementals;8,000 gp;Rare;Summons / Pets
+132-BSu;Bronze Griffon;4,000 gp;Rare;Summons / Pets
+133-BSu;Bronze Horn of Valhalla;11,000 gp;Very Rare;Summons / Pets
+134-CSu;Censer of Controlling Air Elementals;8,000 gp;Rare;Summons / Pets
+135-ESu;Ebony Fly;6,000 gp;Rare;Summons / Pets
+136-GSu;Goldean Lion;600 gp;Rare;Summons / Pets
+137-ISu;Iron Horn of Valhalla;14,000 gp;Legendary;Summons / Pets
+138-ISu;Ivory Goat (Terror);3,000 gp;Rare;Summons / Pets
+139-ISu;Ivory Goat (Travail);400 gp;Rare;Summons / Pets
+140-ISu;Ivory Goat (Traveling);700 gp;Rare;Summons / Pets
+141-MSu;Marble Elephant;800 gp;Rare;Summons / Pets
+142-OSu;Obsidian Steed;20,000 gp;Very Rare;Summons / Pets
+143-OSu;Onyx Dog;500 gp;Rare;Summons / Pets
+144-SSu;Serpentine Owl;8,000 gp;Rare;Summons / Pets
+145-SSu;Silver Horn of Valhalla;5,600 gp;Rare;Summons / Pets
+146-SSu;Silver Raven;5,000 gp;Uncommon;Summons / Pets
+147-SSu;Staff of the Python;200 gp;Uncommon;Summons / Pets
+148-SSu;Stone of Controlling Earth Elementals;8,000 gp;Rare;Summons / Pets
+149-(Co;(+1) Weapon;700 gp;Uncommon;Combat Items
+150-(Co;(+2) Weapon;2,000 gp;Rare;Combat Items
+151-(Co;(+3) Weapon;8,000 gp;Very Rare;Combat Items
+152-(Co;(+1) Armor;1,000 gp;Rare;Combat Items
+153-(Co;(+2) Armor;5,000 gp;Very Rare;Combat Items
+154-(Co;(+3) Armor;30,000 gp;Legendary;Combat Items
+155-(Co;(+1) Shield;500 gp;Uncommon;Combat Items
+156-(Co;(+2) Shield;2,000 gp;Rare;Combat Items
+157-(Co;(+3) Shield;20,000 gp;Legendary;Combat Items
+158-VCo;Vicious Weapon;1,000 gp;Rare;Combat Items
+159-SCo;Sword of Life-Stealing;1,000 gp;Rare;Combat Items
+160-SCo;Sword of Sharpness;1,200 gp;Rare;Combat Items
+161-SCo;Scimitar of Speed;5,000 gp;Very Rare;Combat Items
+162-DCo;Dancing Sword;5,000 gp;Very Rare;Combat Items
+163-SCo;Sword of Wounding;2,000 gp;Rare;Combat Items
+164-FCo;Flame Tongue;3,000 gp;Rare;Combat Items
+165-DCo;Defender;20,000 gp;Legendary;Combat Items
+166-FCo;Frost Brand;2,000 gp;Very Rare;Combat Items
+167-NCo;Nine Lives Stealer (Fully Charged);7,000 gp;Very Rare;Combat Items
+168-SCo;Sunblade;5,000 gp;Rare;Combat Items
+169-DCo;Dwarven Thrower;6,000 gp;Very Rare;Combat Items
+170-HCo;Hammer of Thunderbolts;8,000 gp;Legendary;Combat Items
+171-HCo;Holy Avenger;90,000 gp;Legendary;Combat Items
+172-SCo;Sword of Answering;30,000 gp;Legendary;Combat Items
+173-ECo;Efreeti Chain;50,000 gp;Legendary;Combat Items
+174-JCo;Javelin of Lightning;150 gp;Uncommon;Combat Items
+175-DCo;Dagger of Venom;800 gp;Rare;Combat Items
+176-VCo;Vorpal Sword;20,000 gp;Legendary;Combat Items
+177-WCo;Weapon of Warning;400 gp;Uncommon;Combat Items
+178-DCo;Dragon Slayer;2,000 gp;Rare;Combat Items
+179-OCo;Oathbow;4,500 gp;Very Rare;Combat Items
+180-GCo;Giant Slayer;1,200 gp;Rare;Combat Items
+181-MCo;Mace of Smiting;1,500 gp;Rare;Combat Items
+182-MCo;Mace of Disruption;3,000 gp;Rare;Combat Items
+183-MCo;Mace of Terror;2,000 gp;Rare;Combat Items
+184-ICo;Ioun Stone Protection;1,200 gp;Rare;Combat Items
+185-ICo;Ioun Stone Reserve;1,0500 gp;Rare;Combat Items
+186-ICo;Ioun Stone Agility;3,000 gp;Very Rare;Combat Items
+187-ICo;Ioun Stone Fortitude;3,000 gp;Very Rare;Combat Items
+188-ICo;Ioun Stone Insight;3,000 gp;Very Rare;Combat Items
+189-ICo;Ioun Stone Intellect;3,000 gp;Very Rare;Combat Items
+190-ICo;Ioun Stone Leadership;3,000 gp;Very Rare;Combat Items
+191-ICo;Ioun Stone Strength;3,000 gp;Very Rare;Combat Items
+192-ICo;Ioun Stone Regeneration;5,000 gp;Legendary;Combat Items
+193-ICo;Ioun Stone Awareness;500 gp;Rare;Combat Items
+194-ICo;Ioun Stone Mastery;8,000 gp;Legendary;Combat Items
+195-SCo;Staff of Withering;800 gp;Rare;Combat Items
+196-SCo;Staff of Thunder and Lightning;4,500 gp;Very Rare;Combat Items
+197-SCo;Staff of the Adder;200 gp;Uncommon;Combat Items
+198-SCo;Staff of Striking;10,000 gp;Very Rare;Combat Items
+199-SCo;Staff of Fire;15,000 gp;Very Rare;Combat Items
+200-SCo;Staff of Swarming Insects;2,000 gp;Rare;Combat Items
+201-SCo;Staff of Charming;550 gp;Rare;Combat Items
+202-SCo;Staff of Healing;3,000 gp;Rare;Combat Items
+203-SCo;Staff of Frost;20,000 gp;Very Rare;Combat Items
+204-SCo;Staff of Power;60,500 gp;Very Rare;Combat Items
+205-SCo;Staff of the Woodlands;2,000 gp;Rare;Combat Items
+206-WCo;Wand of Enemy Detection;3,000 gp;Rare;Combat Items
+207-WCo;Wand of Magic Missiles;1,500 gp;Uncommon;Combat Items
+208-WCo;Wand of Web;2,000 gp;Uncommon;Combat Items
+209-WCo;Wand of Binding;4,500 gp;Rare;Combat Items
+210-WCo;Wand of Fear;2,000 gp;Rare;Combat Items
+211-WCo;Wand of Paralysis;5,000 gp;Rare;Combat Items
+212-WCo;Wand of Fireballs;5,000 gp;Rare;Combat Items
+213-WCo;Wand of Lightning Bolts;3,500 gp;Rare;Combat Items
+214-WCo;Wand of Polymorph;20,000 gp;Very Rare;Combat Items
+215-WCo;Wand of the War Mage +1;700 gp;Uncommon;Combat Items
+216-WCo;Wand of the War Mage +2;2,000 gp;Rare;Combat Items
+217-WCo;Wand of the War Mage +3;8,000 gp;Very Rare;Combat Items
+218-TCo;Tentacle Rod;2,0500 gp;Rare;Combat Items
+219-RCo;Rod of Lordly Might;15,000 gp;Legendary;Combat Items
+220-RCo;Rod of Alertness;5,000 gp;Very Rare;Combat Items
+221-RCo;Rod of the Pact Keeper +1;900 gp;Uncommon;Combat Items
+222-RCo;Rod of the Pact Keeper +2;3,500 gp;Rare;Combat Items
+223-RCo;Rod of the Pact Keeper +3;11,000 gp;Very Rare;Combat Items
+224-RCo;Rod of Security;20,000 gp;Very Rare;Combat Items
+225-ACo;Armor of Resistance;Armor + 500gp;Rare;Combat Items
+226-ACo;Adamantine Armor;Armor + 500 gp;Uncommon;Combat Items
+227-MCo;Mithral Armor;Armor + 800 gp;Uncommon;Combat Items
+228-MCo;Mariner's Armor;Armor + 200 gp;Uncommon;Combat Items
+229-PCo;Plate Armor of Etherealness;48,000 gp;Legendary;Combat Items
+230-ACo;Armor of Invulnerability;50,000 gp;Legendary;Combat Items
+231-GCo;Glamoured Armor;2,000 gp;Rare;Combat Items
+232-DCo;Dragon Scale Mail;4,000 gp;Very Rare;Combat Items
+233-DCo;Dwarven Plate;6,000 gp;Very Rare;Combat Items
+234-ECo;Elven Chain;2,000 gp;Rare;Combat Items
+235-MCo;Mantle of Spell Resistance;1,000 gp;Rare;Combat Items
+236-RCo;Robe of Stars;6,000 gp;Very Rare;Combat Items
+237-RCo;Robe of Scintillating Colors;4,000 gp;Very Rare;Combat Items
+238-RCo;Robe of the Archmagi;50,000 gp;Legendary;Combat Items
+239-RCo;Robe of Eyes;2,500 gp;Rare;Combat Items
+240-HCo;Helm of Teleportation;40,000 gp;Rare;Combat Items
+241-ACo;Animated Shield;4,000 gp;Very Rare;Combat Items
+242-ACo;Arrow-Catching Shield;3,000 gp;Rare;Combat Items
+243-SCo;Shield of Missile Attraction;1,000 gp;Rare;Combat Items
+244-SCo;Sentinel Shield;800 gp;Uncommon;Combat Items
+245-SCo;Spellguard Shield;15,000 gp;Very Rare;Combat Items
+246-BCo;Bracers of Archery;500 gp;Uncommon;Combat Items
+247-PCo;Periapt of Wound Closure;900 gp;Uncommon;Combat Items
+248-BCo;Boots of Speed;800 gp;Rare;Combat Items
+249-ICo;Iron Bands of Bilarro;2,000 gp;Rare;Combat Items
+250-CCo;Circlet of Blasting;500 gp;Uncommon;Combat Items
+251-PCo;Pipes of the Sewers;200 gp;Uncommon;Combat Items
+252-RCo;Rope of Entanglement;600 gp;Rare;Combat Items
+253-LCo;Luckstone;500 gp;Uncommon;Combat Items
+254-SCo;Saddle of the Cavalier;150 gp;Uncommon;Combat Items
+255-WCo;Wind Fan;300 gp;Uncommon;Combat Items
+256-GCo;Gloves of Missile Snaring;450 gp;Uncommon;Combat Items
+257-CCo;Cloak of Protection;1,000 gp;Uncommon;Combat Items
+258-BCo;Belt of Dwarvenkind;3,000 gp;Rare;Combat Items
+259-BCo;Belt of Hill Giant Strength;5,000 gp;Rare;Combat Items
+260-BCo;Belt of Stone Giant Strength;10,000 gp;Very Rare;Combat Items
+261-BCo;Belt of Frost Giant Strength;10,000 gp;Very Rare;Combat Items
+262-BCo;Belt of Fire Giant Strength;25,000 gp;Very Rare;Combat Items
+263-BCo;Belt of Cloud Giant Strength;50,000 gp;Legendary;Combat Items
+264-BCo;Belt of Storm Giant Strength;Your Soul;Legendary;Combat Items
+265-BCo;Bracers of Defense;4,000 gp;Rare;Combat Items
+266-PCo;Pearl of Power;500 gp;Uncommon;Combat Items
+267-PCo;Pipes of Haunting;600 gp;Uncommon;Combat Items
+268-BCo;Brooch of Shielding;500 gp;Uncommon;Combat Items
+269-ACo;Amulet of Health;3,000 gp;Rare;Combat Items
+270-GCo;Gauntlets of Ogre Power;1,000 gp;Uncommon;Combat Items
+271-HCo;Headband of Intellect;1,000 gp;Uncommon;Combat Items
+272-RCo;Ring of Resistance;1,000 gp;Rare;Combat Items
+273-RCo;Ring of Protection;2,000 gp;Rare;Combat Items
+274-RCo;Ring of Evasion;2,000 gp;Rare;Combat Items
+275-RCo;Ring of Shooting Stars;8,000 gp;Very Rare;Combat Items
+276-RCo;Ring of Fire Elemental Command;15,000 gp;Legendary;Combat Items
+277-RCo;Ring of Free Action;2,000 gp;Rare;Combat Items
+278-RCo;Ring of Water Elemental Command;20,000 gp;Legendary;Combat Items
+279-RCo;Ring of Spell Storing;3,000 gp;Rare;Combat Items
+280-RCo;Ring of Spell Turning;20,000 gp;Legendary;Combat Items
+281-RCo;Ring of the Ram;1,500 gp;Rare;Combat Items
+282-RCo;Ring of Feather Falling;800 gp;Rare;Combat Items
+283-RCo;Ring of Regeneration;10,000 gp;Very Rare;Combat Items
+284-SCo;Scarab of Protection;30,000 gp;Legendary;Combat Items
+285-CCo;Cloak of Displacement;8,000 gp;Rare;Combat Items
+286-PCo;Prayer Bead - Bless;200 gp;Rare;Combat Items
+287-PCo;Prayer Bead - Smiting;300 gp;Rare;Combat Items
+288-PCo;Prayer Bead - Curing;1,000 gp;Rare;Combat Items
+289-PCo;Prayer Bead - Wind Walking;1,200 gp;Rare;Combat Items
+290-PCo;Prayer Bead - Greater Restoration;2,500 gp;Rare;Combat Items
+291-PCo;Prayer Bead - Summons;5,000 gp;Rare;Combat Items
+292-ICo;Instrument of the Bards - Cli Lyre;2,500 gp;Rare;Combat Items
+293-ICo;Instrument of the Bards - Fochulan Bandlore;1,500 gp;Uncommon;Combat Items
+294-ICo;Instrument of the Bards - Mac-Fuirmidh Cittern;2,000 gp;Uncommon;Combat Items
+295-ICo;Instrument of the Bards - Doss Lute;1,500 gp;Uncommon;Combat Items
+296-ICo;Instrument of the Bards - Canaith Mandolin;2,500 gp;Rare;Combat Items
+297-ICo;Instrument of the Bards - Anstruth Harp;5,000 gp;Very Rare;Combat Items
+298-ICo;Instrument of the Bards - Ollamh Harp;70,000 gp;Legendary;Combat Items
+299-LCo;Luck Blade (Per Charge);50,000 gp;Legendary;Combat Items
+300-HCo;Helm of Brilliance;15,000 gp;Very Rare;Combat Items

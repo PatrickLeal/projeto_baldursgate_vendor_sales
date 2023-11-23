@@ -1,0 +1,14 @@
+﻿item_id;Name;Price;AC;Weight;Requirements;Stealth;type
+01-Por;Padded;5 gp;11 + Dex;8 lb.;;Disadvantage;Light Armor
+02-Lor;Leather;10 gp;11 + Dex;10 lb.;;;Light Armor
+03-Sor;Studded Leather;45 gp;12 + Dex;13 lb.;;;Light Armor
+04-Hor;Hide;10 gp;12 + Dex(max2);12 lb.;;;Medium Armor
+05-Cor;Chain Shirt;50 gp;13 + Dex(max2);20 lb.;;;Medium Armor
+06-Sor;Scail Mail;50 gp;14 + Dex(max2);45 lb.;;Disadvantage;Medium Armor
+07-Bor;Breastplate;400 gp;14 + Dex(max2);20 lb.;;;Medium Armor
+08-Hor;Half Plate;750 gp;15 + Dex(max2);40 lb.;;Disadvantage;Medium Armor
+09-Ror;Ring Mail;30 gp;14;40 lb.;;Disadvantage;Heavy Armor
+10-Cor;Chain Mail;75 gp;16;55 lb.;Strength 13;Disadvantage;Heavy Armor
+11-Sor;Splint;200 gp;17;60 lb.;Strength 15;Disadvantage;Heavy Armor
+12-Por;Plate;1500 gp;18;65 lb.;Strength 15;Disadvantage;Heavy Armor
+13-Sor;Shields;10 gp;;6 lb.;;;Heavy Armor
