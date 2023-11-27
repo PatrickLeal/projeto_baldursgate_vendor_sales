@@ -1,38 +1,411 @@
-﻿Name;Price;Damage;Weight;Properties;type
-Club;1 sp;1d4 Bludgeon;2 lb.;Light;Simple Melee Weapons
-Dagger;2 gp;1d4 Piercing;1 lb.;Finesse, Light, Thrown (20/60);Simple Melee Weapons
-Greatclub;2 sp;1d8 Bludgeon;10 lb.;Two-handed;Simple Melee Weapons
-Handaxe;5 gp;1d6 Slashing;2 lb.;Light, Thrown (20/60);Simple Melee Weapons
-Javelin;5 sp;1d6 Piercing;2 lb.;Thrown (30/120);Simple Melee Weapons
-Light hammer;2 gp;1d4 Bludgeon;2 lb.;Light, Thrown (20/60);Simple Melee Weapons
-Mace;5 gp;1d6 Bludgeon;5 lb.;-;Simple Melee Weapons
-Quarterstaff;2 sp;1d6 Bludgeon;5 lb.;Versatile (1d8);Simple Melee Weapons
-Sickle;1 gp;1d4 Slashing;2 lb.;Light;Simple Melee Weapons
-Spear;1 gp;1d6 Piercing;3 lb.;Thrown (20/60), Versatile (1d8);Simple Melee Weapons
-Crossbow, light;25 gp;1d6 Piercing;5 lb.;Ammunition (80/320), Loading, Two-handed;Simple Ranged Weapons
-Dart;5 cp;1d4 Piercing;.25 lb.;Finesse, Thrown (20/60);Simple Ranged Weapons
-Shortbow;25 gp;1d6 Piercing;2 lb.;Ammunition (80/320), Two-handed;Simple Ranged Weapons
-Sling;1 sp;1d4 Bludgeon;-;Ammunition (30/120);Simple Ranged Weapons
-Battleaxe;10 gp;1d8 Slashing;4 lb.;Versatile (1d10);Martial Melee Weapons
-Flail;10 gp;1d8 Bludgeon;2 lb.;-;Martial Melee Weapons
-Glaive;20 gp;1d10 Slashing;6 lb.;Heavy, Reach, Two-handed;Martial Melee Weapons
-Greataxe;30 gp;1d12 Slashing;7 lb.;Heavy, Two-handed;Martial Melee Weapons
-Greatsword;50 gp;2d6 Slashing;6 lb.;Heavy, Two-handed;Martial Melee Weapons
-Halberd;20 gp;1d10 Slashing;6 lb.;Heavy, Reach, Two-handed;Martial Melee Weapons
-Lance;10 gp;1d12 Piercing;6 lb.;Reach, Special;Martial Melee Weapons
-Longsword;15 gp;1d8 Slashing;3 lb.;Versatile (1d10);Martial Melee Weapons
-Maul;10 gp;2d6 Bludgeon;10 lb.;Heavy, Two-handed;Martial Melee Weapons
-Morningstar;15 gp;1d8 Piercing;4 lb.;-;Martial Melee Weapons
-Pike;5 gp;1d10 Piercing;18 lb.;Heavy, Reach, Two-handed;Martial Melee Weapons
-Rapier;25 gp;1d8 Piercing;2 lb.;Finesse;Martial Melee Weapons
-Scimitar;25 gp;1d6 Slashing;3 lb.;Finesse, Light;Martial Melee Weapons
-Shortsword;10 gp;1d6 Slashing;2 lb.;Finesse, Light;Martial Melee Weapons
-Trident;5 gp;1d6 Piercing;5 lb.;Thrown (20/60), Versatile (1d8);Martial Melee Weapons
-War pick;5 gp;1d8 Piercing;2 lb.;-;Martial Melee Weapons
-Warhammer;15 gp;1d8 Bludgeon;2 lb.;Versatile (1d10);Martial Melee Weapons
-Whip;2 gp;1d4 Slashing;3 lb.;Finesse, Reach;Martial Melee Weapons
-Blowgun;10 gp;1 Piercing;1 lb.;Ammunition (25/100), Loading;Martial Ranged Weapons
-Crossbow, hand;75 gp;1d6 Piercing;3 lb.;Ammunition (30/120), Loading, Light;Martial Ranged Weapons
-Crossbow, heavy;50 gp;1d10 Piercing;18 lb.;Ammunition (100/400), Loading, Two-handed, Heavy;Martial Ranged Weapons
-Longbow;50 gp;1d8 Piercing;2 lb.;Ammunition (150/600), Heavy, Two-handed;Martial Ranged Weapons
-Net;1 gp;-;3 lb.;Special, Thrown (5/15);Martial Ranged Weapons
+﻿name;sex
+ Veklani  Daargen;female
+ Kasaki  Wygarthe;female
+ Rosalyn  Faringray;female
+ Atalya  Webb;female
+ Grenenzel  Lyfalia;female
+ Venefiq  Welfer;female
+ Vauldra  Moonridge;female
+ Ayrthwil  Ronefel;female
+ Sachil  Garkalan;female
+ Veklani  Welfer;female
+ Rokel Arkalis;female
+ Irva  Cresthill;female
+ Thurlfara  Gullscream;female
+ Ayrthwil  Danamark;female
+Azura  Wilxes;female
+ Praxana  Faringray;female
+Aryllan  Cuttlescar;female
+ Marnia  Shattermast;female
+ Kasaki  Hackshield;female
+ Lokara  Ereghast;female
+Azura  Thirya;female
+ Sachil  Fletcher;female
+ Krystolari  Garkalan;female
+ Pharana Aryllan;female
+ Pharana  Leerstrom;female
+ Mirabel  Sell;female
+ Vencia  Bilger;female
+ Roksana  Roxley;female
+ Praxana  Zereni;female
+ Vencia  Shanks;female
+ Rosalyn  Shattermast;female
+ Ronefel  Cuttlescar;female
+ Saidi  Roxley;female
+ Krystolari  Zatchet;female
+ Kasaki  Deepmiddens;female
+ Marnia  Goldrudder;female
+ Tylsa  Evermead;female
+ Xandrilla  Goldrudder;female
+ Atalya  Drumwind;female
+ Pharana  Zatchet;female
+ Fenryl  Markolak;female
+ Marnia  Stavenger;female
+ Ronefel  Wintermere;female
+ Rokel  Swiller;female
+ Hallan  Towerfall;female
+ Grenenzel  Ratley;female
+ Praxana  Armanci;female
+ Sachil  Lynchfield;female
+ Roksana  Seratolva;female
+ Vencia  Coyle;female
+ Irva  Silvertarn;female
+ Sachil  Donoghan;female
+ Pharana  Roxley;female
+ Atalya  Danamark;female
+ Velene Arkalis;female
+ Lurka  Vrye;female
+ Ayrthwil  Shaulfer;female
+ Fenryl  Cuttlescar;female
+ Saidi  Carnavon;female
+ Kasaki  Webb;female
+ Veklani  Coyle;female
+ Kasaki  Skandalor;female
+ Atalya  Zatchet;female
+ Lokara  Silvergraft;female
+ Tylsa  Velene;female
+ Lyfalia  Caskajaro;female
+ Atalya  Falck;female
+ Mirabel  Cresthill;female
+ Mirabel  Varzand;female
+ Xandrilla  Cresthill;female
+ Lokara  Strong;female
+ Zebel  Markolak;female
+ Remora  Goldrudder;female
+ Mirabel  Daargen;female
+ Grenenzel  Vrye;female
+ Vauldra  Silvergraft;female
+ Lokara  Caskajaro;female
+ Roksana  Venefiq;female
+ Lorelei  Stormchapel;female
+ Tura Arkalis;female
+ Sachil  Lamoth;female
+ Ayrthwil  Ramcrown;female
+ Dalkon  Venefiq;male
+ Tavon  Cuttlescar;male
+ Semil  Rockharvest;male
+ Hagar  Thirya;male
+ Namen  Gullscream;male
+ Lavant  Strong;male
+ Dodd  Lyfalia;male
+ Meklan  Evermead;male
+ Navaren  Leerstrom;male
+ Gryphero  Atalya;male
+ Norris  Cresthill;male
+ Eandro  Welfer;male
+ Fenton  Revenmar;male
+ Meklan  Stavenger;male
+ Tegan  Zethergyll;male
+ Falken  Grantham;male
+ Cale Ambershard;male
+ Jeras  Thirya;male
+ Sevenson  Thirya;male
+ Ningyan  Vrye;male
+ Dungarth  Stormchapel;male
+ Tamond  Ramcrown;male
+ Eandro  Silvergraft;male
+ Malfier  Talandro ;male
+ Malfier  Swiller;male
+ Fenton  Seratolva;male
+ Dungarth  Skandalor;male
+ Hagar  Shattermast;male
+ Dungarth  Grantham;male
+ Ningyan  Ayrthwil;male
+ Meklan  Blackstrand;male
+ Dungarth  Dunhall;male
+ Hagar  Zarkanan;male
+ Nilus  Wintermere;male
+ Nerle  Cuttlescar;male
+ Nilus Aryllan;male
+ Dodd  Swiller;male
+ Nerle  Welfer;male
+ Semil  Van Gandt;male
+ Dalkon  Redraven;male
+ Dodd  Welfer;male
+ Meklan  Van Devries;male
+ Gryphero  Silvertarn;male
+ Steveren  Cuttlescar;male
+ Lavant  Zereni;male
+ Leyten  Armanci;male
+ Dungarth  Van Gandt;male
+ Dungarth  Ayrthwil;male
+ Dodd  Van Gandt;male
+ Sevenson  Roxley;male
+ Eandro  Brightwater;male
+ Bram  Dunhall;male
+ Lavant  Evermead;male
+Anlow  Zethergyll;male
+ Daylen  Danamark;male
+ Markus  Zatchet;male
+ Lavant  Sell;male
+ Dalkon  Fletcher;male
+ Lavant  Talandro ;male
+ Norris  Silvergraft;male
+ Madian  Ronefel;male
+ Feck  Kroft;male
+ Nerle  Coyle;male
+ Nilus  Strong;male
+ Taran  Zatchet;male
+ Lavant  Dunhall;male
+ Steveren  Seratolva;male
+ Dalkon  Armanci;male
+ Sevenson  Ramcrown;male
+ Dyrk  Danamark;male
+ Dyrk  Varzand;male
+ Madian  Towerfall;male
+ Tamond  Coyle;male
+ Norris  Copperhearth;male
+ Navaren  Drakantal;male
+ Talfen  Ratley;male
+ Daylen  Wilxes;male
+ Lavant  Ayrthwil;male
+ Dungarth  Wygarthe;male
+ Cale  Shanks;male
+ Leyten  Grantham;male
+ Jeras  Skandalor;male
+ Bram  Drakantal;male
+ Navaren  Daargen;male
+ Dodd  Armanci;male
+ Dungarth  Graylock;male
+ Meklan  Talandro ;male
+ Nilus  Daargen;male
+ Semil  Garkalan;male
+ Namen  Webb;male
+ Steveren  Wygarthe;male
+ Norris  Swiller;male
+ Jeras  Grimtor;male
+ Markus  Dalicarlia;male
+ Lavant  Daargen;male
+ Tavon  Lamoth;male
+ Quentin  Markolak;male
+ Falken  Zereni;male
+ Norris  Rockharvest;male
+ Quentin  Ramcrown;male
+ Namen  Barrelhelm;male
+ Leyten  Thirya;male
+ Taran  Varzand;male
+ Ningyan  Kreel;male
+ Gryphero  Voortham;male
+Anlow  Voortham;male
+ Dyrk  Coldshore;male
+ Dyrk  Pyncion;male
+ Leyten  Fryft;male
+ Eandro  Targana;male
+ Krynt  Grimtor;male
+ Dyrk  Faringray;male
+ Talfen  Atalya;male
+ Quentin  Rockharvest;male
+ Dodd  Irongull;male
+ Talfen  Sell;male
+ Norris  Netheridge;male
+ Gryphero  Roxley;male
+Anlow  Van Hyden;male
+ Vanan  Van Gandt;male
+Anlow  Evermead;male
+ Dalkon  Danamark;male
+ Vincent  Blackstrand;male
+ Markus  Wintermere;male
+ Talfen  Daargen;male
+ Tavon  Coyle;male
+ Malfier  Targana;male
+ Tegan  Drakantal;male
+ Namen  Redraven;male
+ Dodd  Falck;male
+ Talfen  Hindergrass;male
+ Fenton  Redraven;male
+ Vanan  Varcona;male
+ Leyten  Ronefel;male
+ Dalkon  Swiller;male
+ Talfen  Wintermere;male
+ Vincent  Cresthill;male
+ Cale  Zereni;male
+ Talfen  Caskajaro;male
+ Cale  Ramcrown;male
+ Norris  Irongull;male
+ Sevenson  Lamoth;male
+ Hagar  Zereni;male
+ Taran  Drakantal;male
+ Eandro  Coyle;male
+ Falken  Armanci;male
+ Bram  Ereghast;male
+ Falken  Daargen;male
+ Arando Arkalis;male
+ Jeras  Dalicarlia;male
+ Talfen  Fallenbridge;male
+ Steveren  Ramcrown;male
+ Tavon  Silvergraft;male
+ Dodd  Zereni;male
+ Gryphero  Webb;male
+ Fenton  Varzand;male
+Anlow  Ereghast;male
+ Quentin  Coyle;male
+ Hagar  Pyncion;male
+ Krynt  Lamoth;male
+ Talfen  Swiller;male
+ Nerle  Daargen;male
+ Ningyan  Daargen;male
+ Norris  Seratolva;male
+ Markus  Wintermere;male
+ Talfen  Daargen;male
+ Tavon  Coyle;male
+ Malfier  Targana;male
+ Tegan  Drakantal;male
+ Namen  Redraven;male
+ Dodd  Falck;male
+ Talfen  Hindergrass;male
+ Fenton  Redraven;male
+ Vanan  Varcona;male
+ Leyten  Ronefel;male
+ Dalkon  Swiller;male
+ Talfen  Wintermere;male
+ Vincent  Cresthill;male
+ Cale  Zereni;male
+ Talfen  Caskajaro;male
+ Cale  Ramcrown;male
+ Norris  Irongull;male
+ Sevenson  Lamoth;male
+ Hagar  Zereni;male
+ Taran  Drakantal;male
+ Eandro  Coyle;male
+ Falken  Armanci;male
+ Bram  Ereghast;male
+ Falken  Daargen;male
+ Arando Arkalis;male
+ Jeras  Dalicarlia;male
+ Talfen  Fallenbridge;male
+ Steveren  Ramcrown;male
+ Tavon  Silvergraft;male
+ Dodd  Zereni;male
+ Gryphero  Webb;male
+ Fenton  Varzand;male
+Anlow  Ereghast;male
+ Quentin  Coyle;male
+ Hagar  Pyncion;male
+ Krynt  Lamoth;male
+ Talfen  Swiller;male
+ Nerle  Daargen;male
+ Ningyan  Daargen;male
+ Norris  Seratolva;male
+ Zebel  Ereghast;female
+ Grenenzel  Copperhearth;female
+ Xandrilla  Pyncion;female
+ Velene  Hackshield;female
+ Lyfalia  Ayrthwil;female
+ Fenryl  Cuttlescar;female
+ Thirya  Grantham;female
+ Marnia  Vrye;female
+ Lurka  Bilger;female
+ Sachil  Webb;female
+ Zebel  Van Gandt;female
+ Velene Ambershard;female
+ Rokel  Fryft;female
+ Sachil  Cresthill;female
+Aryllan  Zethergyll;female
+ Remora  Hackshield;female
+ Saidi  Roxley;female
+ Krystolari  Wilxes;female
+ Remora  Welfer;female
+ Lyfalia  Varzand;female
+ Thirya  Dalicarlia;female
+ Xandrilla  Grantham;female
+ Xandrilla  Falck;female
+ Irva  Hindergrass;female
+ Zebel  Lamoth;female
+ Tura Ambershard;female
+ Vencia  Zethergyll;female
+ Vencia  Cresthill;female
+ Hallan  Copperhearth;female
+Azura  Graylock;female
+ Irva  Grimtor;female
+ Veklani  Varzand;female
+Beyla  Lamoth;female
+ Tylsa  Webb;female
+ Vronwe  Cuttlescar;female
+ Brey  Graylock;female
+ Sachil  Velene;female
+ Lorelei  Revenmar;female
+ Ronefel  Towerfall;female
+ Rosalyn  Rockharvest;female
+ Roksana  Coyle;female
+ Rosalyn  Van Gandt;female
+ Ronefel  Venefiq;female
+ Marnia  Leerstrom;female
+ Venefiq  Barrelhelm;female
+ Remora  Moonridge;female
+ Ronefel  Wygarthe;female
+ Grenenzel  Welfer;female
+ Krystolari  Roxley;female
+ Thurlfara  Evermead;female
+ Hallan  Fletcher;female
+ Mirabel  Zereni;female
+ Zebel  Cuttlescar;female
+ Zebel  Zatchet;female
+ Fenryl  Leerstrom;female
+ Praxana  Lynchfield;female
+Azura  Evermead;female
+ Mirabel  Caskajaro;female
+ Brey  Fallenbridge;female
+ Marnia  Grimtor;female
+ Venefiq  Vrye;female
+ Ronefel  Welfer;female
+ Mirabel  Cresthill;female
+ Grenenzel  Varzand;female
+ Praxana  Strong;female
+ Venefiq  Revenmar;female
+ Thurlfara  Ratley;female
+ Marnia  Oakenheart;female
+ Hallan  Shanks;female
+ Thurlfara Aryllan;female
+ Lyfalia  Hindergrass;female
+ Vronwe  Carnavon;female
+ Marnia  Blackstrand;female
+ Saidi  Ereghast;female
+ Krystolari  Silvertarn;female
+ Mirabel  Zethergyll;female
+ Marnia  Roxley;female
+ Irva  Velene;female
+ Mirabel  Irongull;female
+ Lokara  Iscalon;female
+ Thurlfara  Leerstrom;female
+ Lorelei  Umbermoor;female
+ Mirabel Aryllan;female
+Azura  Netheridge;female
+ Tura Arkalis;female
+ Remora  Atalya;female
+ Hallan  Hackshield;female
+ Fenryl  Venefiq;female
+ Pharana  Zarkanan;female
+ Venefiq  Varzand;female
+ Brey  Coldshore;female
+Azura  Stormchapel;female
+ Irva Aryllan;female
+ Saidi  Shattermast;female
+Aryllan  Sell;female
+ Tanika Ambershard;female
+ Ronefel  Graylock;female
+ Fenryl  Netheridge;female
+ Vronwe  Blackstrand;female
+ Ronefel  Dunhall;female
+ Tanika  Shanks;female
+ Lurka  Swiller;female
+Aryllan  Leerstrom;female
+ Hallan  Zethergyll;female
+ Fenryl  Irva;female
+ Tylsa  Kreel;female
+ Tanika  Wygarthe;female
+ Grenenzel  Deepmiddens;female
+ Pharana  Dunhall;female
+ Grenenzel  Coldshore;female
+ Ronefel  Ratley;female
+ Brey Aryllan;female
+ Ronefel  Stormchapel;female
+ Kasaki  Talandro ;female
+ Venefiq  Ereghast;female
+Beyla  Revenmar;female
+ Roksana  Dalicarlia;female
+ Lyfalia  Wintermere;female
+ Brey  Danamark;female
+ Remora  Lamoth;female
+ Ronefel  Irva;female
+ Sachil  Redraven;female
+ Pharana  Skandalor;female
