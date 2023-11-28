@@ -1,0 +1,12 @@
+﻿race;base_age;max_age;maximum_age_range
+Dragonborn ;15;80;80 + 1d20
+Drow;80;225;225 + 3d100
+Dwarf;50;350;300 + 2d100
+Elf;90;750;425 + 5d100
+Githyanki;30;250;250 + 1d100
+Gnome;60;200;200 + 3d100
+Half-Elf;15;125;125 + 3d20
+Halfling;20;100;100 + 1d100
+Half-Orc;12;60;90 + 2d20
+Human;15;90;90 + 2d20
+Tiefling;17;100;100 + 1d100
