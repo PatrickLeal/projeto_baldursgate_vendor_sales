@@ -1,0 +1,13 @@
+﻿Class;Armor;Weapon
+Barbarian;Light armor, medium armor, shields;Simple weapons, martial weapons
+Bard;Light armor;simple weapons, hand crossbows, longswords, rapiers, shortswords
+Cleric;Light armor, medium armor, shields;Simple weapons
+Druid;Light armor, medium armor, shields ;Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+Fighter;Light armor, medium armor, heavy armor, shields ;Simple weapons, martial weapons
+Monk;None;Simple weapons, shortswords
+Paladin;Light armor, medium armor, heavy armor, shields ;Simple weapons, martial weapons
+Ranger;Light armor, medium armor, shields;Simple weapons, martial weapons
+Rogue;Light armor;Simple weapons, hand crossbows, longswords, rapiers, shortswords
+Sorcerer;None;Daggers, darts, slings, quarterstaffs, light crossbows
+Warlock;Light armor;simple weapons
+Wizard;None;Daggers, darts, slings, quarterstaffs, light crossbows
