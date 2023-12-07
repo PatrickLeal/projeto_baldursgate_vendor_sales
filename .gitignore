@@ -3,3 +3,7 @@ data/*.xlsx
 *.pptx
 
 *.txt
+
+*.db
+
+*.png
