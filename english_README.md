@@ -26,7 +26,7 @@ I wanted a database to **practice Data Analysis**, but I wasn't finding an inter
 
 [↑](#tópicos)
  
-## Researching outside my expertise/domain
+## Researching outside my expertise-domain
 To generate random encounters, I needed to research **the animal behavior of the three animals** I chose to inspire the appearances of the monsters I decided to use, which were: 
 
 | monsters | animals/source |
