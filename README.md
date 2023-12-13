@@ -1,10 +1,19 @@
 # Mock Database
 
-Um database de vendas simulando as vendas de um NPC dentro de Baldur's Gate. 
+Um database de vendas **simulando as vendas de um NPC** dentro de Baldur's Gate. 
+
+## Tópicos:
+* [Motivação](#motivação)
+* [Planejamento](#planejamento)
+*
+
+
 ## Motivação
 Eu queria uma base de dados para praticar Data Analysis, mas não estava encontrando uma BD interessante então decidi criar uma, escolhi esse tema por causa do meu interesse no jogo Baldur's Gate 3 e porquê o mesmo está em bastante evidência atualmente.
 ## Planejamento
 ![fluxo do projeto](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/assets/64172146/04e8c08f-eafa-4e0d-b1b6-1383114b1f23)
+[↑](#tópicos)
+
 ## Etapas:
 * Gerar e Traformar dados com [Excel](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/usando_excel.md)
 * Criar a [Base de Dados](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/database_creation.ipynb) principal
@@ -17,8 +26,24 @@ Para gerar os encontros aleatórios, eu precisei pesquisar sobre o comportamento
 | Dragão   | [Dragão de Komodo](https://pt.wikipedia.org/wiki/Drag%C3%A3o-de-komodo#:~:text=Apesar%20dos%20drag%C3%B5es%2Dde%2Dkomodo,incluindo%20invertebrados%2C%20aves%20e%20mam%C3%ADferos.&text=A%20%C3%A9poca%20de%20reprodu%C3%A7%C3%A3o%20come%C3%A7a,ovos%20s%C3%A3o%20postos%20em%20setembro.)|
 | Griffon  | [Harpia Brasileira](https://pt.wikipedia.org/wiki/Gavi%C3%A3o-real)|
 
+<div style="display: inline_block" align="left"><br>
+ <img width="200" height="200" src="https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/assets/64172146/d3b964fb-cf1e-4b08-a93f-99c32a1ceb97" alt="Jacurutu"/>
+ <img width="200" height="200" src="https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/assets/64172146/fc58faa8-d1e8-42c6-bf7d-ac1653cb73d0" alt="harpia"/>
+ <img width="200" height="200" src="https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/assets/64172146/564147cc-705a-4bf2-a27a-4b920b1e6d67" alt="dragao de komodo"/>
+</div>
+
+Fonte imagens:
+* [Coruja jacurutu](https://pt.wikipedia.org/wiki/Ficheiro:Talons,_Great_Horned_Owl.jpg)
+* [Harpia](https://pt.wikipedia.org/wiki/Ficheiro:Harpia_harpyja_001_800.jpg)
+* [Dragão de komodo](https://pt.wikipedia.org/wiki/Ficheiro:Varanus_komodoensis6.jpg)
+
 ## Dicionário dos Dados:
-Moedas:
+
+**Relacionamento das tabelta**:
+![relacionamento_tabelas](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/assets/64172146/7c11e79f-aad8-4cad-bcd9-7b77dbe81fb2)
+***
+
+**Moedas**:
 Coin|	CP|	SP|EP|GP|	PP
 --- |---|---|--|--|--
 Copper (cp)|	1|	10	|50	|100|	1,000
@@ -58,4 +83,51 @@ price| preço do produto
 type| tipo do produto
 * Nota2: ***type*** faz referência à tabela que contém os detalhes do produto, logo '*type* = weapon' significa que o produto pertence a tabela *details_weapons*
 
+As demais tabelas ***details_***:
+atributo | significado 
+---------|-------------
+item_id | ID do item; corresponde ao atributo *product_id* nas outras tabelas
+name| nome do produto
+price| preço do produto
+damage| dano da arma
+ac| *armor class*, representa a defesa contra ataque dos monstros
+weight| peso do item
+requirements| requerimentos do item
+stealth| se o item afeta o *stealth* do personagem
+dc| *Difficulty Class*, significa o número que é preciso atingir para ser bem sucedido em uma rolagem de dados
+properties| propriedade do item
+rarity| raridade do item
+category| categoria do item
+type| tipo do item
 
+* Nota3: Eu decidi excluir da BD os items ***Very Rare*** e ***Legendary***
+
+Tabela [encounters](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/data/encounters.csv):
+atributo | significado 
+---------|-------------
+enc_id| ID do encontro
+date| data do encontro
+monster| tipo de monstro 
+encounter_type| tipo de encontro
+
+## **Fontes**
+**Itens**:
+* https://docs.google.com/spreadsheets/d/1YPjicBYONAtoduyoamiwlVpsV_k1Ki2XzNCAnar5d4Y/edit#gid=0
+* https://bg3.wiki/wiki/Items
+* https://baldursgate3.wiki.fextralife.com/Weapons
+* https://www.thievesguild.cc/shops/
+  
+**Nomes de Fantasia:**
+* https://www.tumblr.com/tabletop-rpgs/183572141838/chris-perkins-npc-name-list
+
+**Moedas:**
+* https://dnd5e.info/equipment/currency/
+
+**Raças e Idades:** 
+* https://www.reddit.com/r/DnD/comments/97a8to/oc_ive_finally_made_an_expanded_version_of_the/
+* https://lairofsentinel.tumblr.com/post/632336501467906048
+* https://people.wku.edu/charles.plemons/ad&d/races/age.html
+* https://life-of-the-party-dnd.fandom.com/wiki/Races#Dragonborn
+
+**Classes:**
+* https://www.dndbeyond.com/sources/basic-rules/classes#ClassesSummary
