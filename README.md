@@ -15,12 +15,14 @@ Um database de vendas **simulando as vendas de um NPC** dentro de Baldur's Gate.
 Eu queria uma base de dados para praticar Data Analysis, mas não estava encontrando uma BD interessante então decidi criar uma, escolhi esse tema por causa do meu interesse no jogo Baldur's Gate 3 e porquê o mesmo está em bastante evidência atualmente.
 ## Planejamento
 ![fluxo do projeto](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/assets/64172146/04e8c08f-eafa-4e0d-b1b6-1383114b1f23)
+
 [↑](#tópicos)
 
 ## Etapas:
 * Gerar e Traformar dados com [Excel](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/usando_excel.md)
 * Criar a [Base de Dados](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/database_creation.ipynb) principal
 * Criar os Dados com [Encontros Aleatórios](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/encounters_dataset_creation.ipynb)
+* 
 [↑](#tópicos)
  
 ## Pesquisando fora do meu domínio
@@ -41,6 +43,7 @@ Fonte imagens:
 * [Coruja jacurutu](https://pt.wikipedia.org/wiki/Ficheiro:Talons,_Great_Horned_Owl.jpg)
 * [Harpia](https://pt.wikipedia.org/wiki/Ficheiro:Harpia_harpyja_001_800.jpg)
 * [Dragão de komodo](https://pt.wikipedia.org/wiki/Ficheiro:Varanus_komodoensis6.jpg)
+* 
 [↑](#tópicos)
 
 ## Dicionário dos Dados:
@@ -115,6 +118,7 @@ enc_id| ID do encontro
 date| data do encontro
 monster| tipo de monstro 
 encounter_type| tipo de encontro
+
 [↑](#tópicos)
 
 ## **Fontes**
@@ -138,4 +142,5 @@ encounter_type| tipo de encontro
 
 **Classes:**
 * https://www.dndbeyond.com/sources/basic-rules/classes#ClassesSummary
+ 
 [↑](#tópicos)
