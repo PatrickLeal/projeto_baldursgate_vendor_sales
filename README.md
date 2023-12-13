@@ -5,7 +5,10 @@ Um database de vendas **simulando as vendas de um NPC** dentro de Baldur's Gate.
 ## Tópicos:
 * [Motivação](#motivação)
 * [Planejamento](#planejamento)
-*
+* [Etapas](#etapas)
+* [Pesquisando Fora do meu Domínio](#pesquisando-fora-do-meu-domínio)
+* [Dicionário dos Dados](#dicionário-dos-dados)
+* [Fontes](#fontes)
 
 
 ## Motivação
@@ -18,6 +21,8 @@ Eu queria uma base de dados para praticar Data Analysis, mas não estava encontr
 * Gerar e Traformar dados com [Excel](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/usando_excel.md)
 * Criar a [Base de Dados](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/database_creation.ipynb) principal
 * Criar os Dados com [Encontros Aleatórios](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/encounters_dataset_creation.ipynb)
+[↑](#tópicos)
+ 
 ## Pesquisando fora do meu domínio
 Para gerar os encontros aleatórios, eu precisei pesquisar sobre o comportamento animal dos três animais que eu escolhi para inspirar as aparições dos montros que eu decidi utilizar, e foram: 
 | monstros | animais/fontes |
@@ -36,6 +41,7 @@ Fonte imagens:
 * [Coruja jacurutu](https://pt.wikipedia.org/wiki/Ficheiro:Talons,_Great_Horned_Owl.jpg)
 * [Harpia](https://pt.wikipedia.org/wiki/Ficheiro:Harpia_harpyja_001_800.jpg)
 * [Dragão de komodo](https://pt.wikipedia.org/wiki/Ficheiro:Varanus_komodoensis6.jpg)
+[↑](#tópicos)
 
 ## Dicionário dos Dados:
 
@@ -109,6 +115,7 @@ enc_id| ID do encontro
 date| data do encontro
 monster| tipo de monstro 
 encounter_type| tipo de encontro
+[↑](#tópicos)
 
 ## **Fontes**
 **Itens**:
@@ -131,3 +138,4 @@ encounter_type| tipo de encontro
 
 **Classes:**
 * https://www.dndbeyond.com/sources/basic-rules/classes#ClassesSummary
+[↑](#tópicos)
