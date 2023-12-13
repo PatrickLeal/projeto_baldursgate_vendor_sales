@@ -6,7 +6,7 @@ A sales database **simulating the sales of an NPC** within Baldur's Gate.
 * [Motivation](#motivation)
 * [Planning](#planning)
 * [Stages](#stages)
-* [Researching outside my expertise/domain](#researching-outside-my-expertise/domain)
+* [Researching outside my expertise/domain](#researching-outside-my-expertise-domain)
 * [Data Dictionary](#data-dictionary)
 * [Sources](#sources)
 
