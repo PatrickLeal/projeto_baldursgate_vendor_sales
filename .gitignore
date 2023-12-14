@@ -4,8 +4,6 @@ data/*.xlsx
 
 *.txt
 
-*.db
-
 *.png
 
 *.jpg
