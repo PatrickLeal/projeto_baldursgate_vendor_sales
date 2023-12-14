@@ -22,11 +22,11 @@ Eu queria uma base de dados para praticar Data Analysis, mas não estava encontr
 * Gerar e Traformar dados com [Excel](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/usando_excel.md)
 * Criar a [Base de Dados](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/database_creation.ipynb) principal
 * Criar os Dados com [Encontros Aleatórios](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/encounters_dataset_creation.ipynb)
-* 
+
 [↑](#tópicos)
  
 ## Pesquisando fora do meu domínio
-Para gerar os encontros aleatórios, eu precisei pesquisar sobre o comportamento animal dos três animais que eu escolhi para inspirar as aparições dos montros que eu decidi utilizar, e foram: 
+Para gerar os encontros aleatórios, eu precisei pesquisar sobre o comportamento animal dos três animais que eu escolhi para inspirar as aparições dos monstros que eu decidi utilizar, e foram: 
 | monstros | animais/fontes |
 |----------|----------------|
 | Owlbear  | [Coruja Jacurutu](https://www.wikiaves.com.br/wiki/jacurutu)|
@@ -43,7 +43,7 @@ Fonte imagens:
 * [Coruja jacurutu](https://pt.wikipedia.org/wiki/Ficheiro:Talons,_Great_Horned_Owl.jpg)
 * [Harpia](https://pt.wikipedia.org/wiki/Ficheiro:Harpia_harpyja_001_800.jpg)
 * [Dragão de komodo](https://pt.wikipedia.org/wiki/Ficheiro:Varanus_komodoensis6.jpg)
-* 
+
 [↑](#tópicos)
 
 ## Dicionário dos Dados:
@@ -75,13 +75,13 @@ Tabela ***customers***:
 
 atributo | significado 
 ---------|-------------
-customer-id| ID do cliente
+customer_id| ID do cliente
 name| nome do cliente
 sex| sexo do cliente
 race| raça do cliente
 age| idade do cliente
 class| classe do cliente
-* Nota1: O range de idade varia de acordo com a raça, com algumas podendo chegar a viver por séculos.
+* Nota 1: O range de idade varia de acordo com a raça, com algumas podendo chegar a viver por séculos.
 
 Tabela ***all_products***:
 atributo | significado 
@@ -90,7 +90,7 @@ product_id| Id do produto
 product_name| nome do produto
 price| preço do produto
 type| tipo do produto
-* Nota2: ***type*** faz referência à tabela que contém os detalhes do produto, logo '*type* = weapon' significa que o produto pertence a tabela *details_weapons*
+* Nota 2: ***type*** faz referência à tabela que contém os detalhes do produto, logo '*type* = weapon' significa que o produto pertence a tabela *details_weapons*
 
 As demais tabelas ***details_***:
 atributo | significado 
@@ -102,14 +102,14 @@ damage| dano da arma
 ac| *armor class*, representa a defesa contra ataque dos monstros
 weight| peso do item
 requirements| requerimentos do item
-stealth| se o item afeta o *stealth* do personagem
+stealth| se o item afeta o *stealth* do cliente
 dc| *Difficulty Class*, significa o número que é preciso atingir para ser bem sucedido em uma rolagem de dados
 properties| propriedade do item
 rarity| raridade do item
 category| categoria do item
 type| tipo do item
 
-* Nota3: Eu decidi excluir da BD os items ***Very Rare*** e ***Legendary***
+* Nota 3: Eu decidi excluir da BD os items de raridades iguais a ***Very Rare*** e ***Legendary***
 
 Tabela [encounters](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/data/encounters.csv):
 atributo | significado 
