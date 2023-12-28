@@ -1,5 +1,7 @@
 data/*.xlsx
 
+*.db
+
 *.pptx
 
 *.txt
