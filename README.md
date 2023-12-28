@@ -1,3 +1,4 @@
+# [In English](https://github.com/PatrickLeal/projeto_baldursgate_vendor_sales/blob/main/english_README.md)
 # Mock Database
 
 Um database de vendas **simulando as vendas de um NPC** dentro de Baldur's Gate. 
